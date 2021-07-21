@@ -1,0 +1,19 @@
+{
+  "name": "ModaResa-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.1.0",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "sqlite3": "^5.0.2"
+  }
+}
